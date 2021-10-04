@@ -1,0 +1,17 @@
+﻿Color,Tamanio,Se estira?,Edad,Inflado?
+Amarillo,Chico,Si,21,Si
+Amarillo,Chico,Si,12,Si
+Amarillo,Chico,No,22,No
+Amarillo,Chico,No,11,No
+Amarillo,Grande,Si,21,Si
+Amarillo,Grande,Si,10,Si
+Amarillo,Mediano,No,34,No
+Amarillo,Mediano,No,9,No
+Rojo,Chico,Si,27,Si
+Rojo,Chico,Si,11,No
+Rojo,Mediano,No,43,No
+Rojo,Mediano,No,12,No
+Rojo,Grande,Si,44,Si
+Rojo,Grande,Si,9,No
+Rojo,Grande,No,39,No
+Rojo,Grande,No,6,No
